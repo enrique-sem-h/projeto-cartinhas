@@ -1,6 +1,10 @@
 <h1 align="center">Repositório criado para armazenamento dos arquivos do projeto 1, realizado pelos alunos de projeto interdisciplinar 1 na UCB</h1>
   
+  
+ 
   > Status: Em desenvolvimento ⚠️
+  
+  
   
  ### Finalidade do Projeto: 
   
@@ -21,3 +25,5 @@
 | :---: |
 
 <h1 align="center">Repository created for storing project 1 archives, made by the interdisciplinary project 1 students at UCB</h1>
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
