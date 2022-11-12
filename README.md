@@ -30,6 +30,8 @@
 
 <h1 align="center">Repository created for storing project 1 archives, made by the interdisciplinary project 1 students at UCB</h1>
 
+> Status: In development ⚠️
+
 ### Purpose of the Project
 
 <h4 align="justify"><p> All years the spirit center Serapiao Ribeiro located in Anapolis performs his Christmas campaign. The project aims connect low income children to people who behave like godparents or godmothers with the aim of collect clothes and toys to be donated to children. The process works where each godparent or godmother when registering in the institution's internal system have the option to donate the money to the institution who will take care of the distribution of the gifts according to demand. .</p>
