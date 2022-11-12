@@ -1,5 +1,6 @@
 <h1 align="center">Repositório criado para armazenamento dos arquivos do projeto 1, realizado pelos alunos de projeto interdisciplinar 1 na UCB</h1>
-  
+
+  English Version [Here](*English)
   
  
   > Status: Em desenvolvimento ⚠️
@@ -32,10 +33,11 @@
 
 > Status: In development ⚠️
 
-### Purpose of the Project
+### Project Purpose: 
+  
+ <h4 align="justify"><p> Every year, the Serapião Ribeiro spiritist center, based in Anapolis, holds its Christmas campaign. The project aims to connect low-income children with people who act as godfathers or godmothers with the goal of collecting clothes and toys to be donated to the children. The process is done in a way where each godfather or godmother, when registered in the institution's internal system, has the option to donate the money to the institution, which will take care of the distribution of gifts according to demand.</p>
+<p>Despite the solidarity, like any good project, the Christmas campaign of the Serapião Ribeiro center has some issues to be resolved, when analyzing the proposal we found some problems that caught our attention, they are: How does the sponsor perform the registration, how is the control of values done and what can be done if, at the end of the registration, there are children without sponsors.</p>  
+<p>Thinking about these issues, we developed this project aiming to solve them, this is a web system that can be hosted on the site of the institution, where users will be able to register through an interface with a form, where the sponsor will be able to see the letters made by children who are not yet sponsored, there will also be a field where the user will leave their forms of contact, either email or WhatsApp, which will be used to return the photos / evidence that the child was really presented.</p></h4>
 
-<h4 align="justify"><p> All years the spirit center Serapiao Ribeiro located in Anapolis performs his Christmas campaign. The project aims connect low income children to people who behave like godparents or godmothers with the aim of collect clothes and toys to be donated to children. The process works where each godparent or godmother when registering in the institution's internal system have the option to donate the money to the institution who will take care of the distribution of the gifts according to demand. .</p>
-<p> Despite solidarity like every good project the Serapiao Ribeiro center Christmas campaign has some issues to resolve analyzing the proposal we found some problems that caught our attention, they are: how the godparent performs the subscription, how the control of values are made and what can be done if, at the end of subscription, there are children without godparents. </p>
-<p> Thinking about this, we developed this project in order to solve them, the same is about the web system that can be hosted in the institution site, where do users arrive when they register through an interface with a guest card.</p>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
