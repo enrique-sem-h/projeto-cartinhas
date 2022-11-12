@@ -24,6 +24,16 @@
 | [<img src="https://avatars.githubusercontent.com/u/27175429?v=4" width=115><br><sub>Joyce Siqueira</sub>](https://github.com/joycitta-siqueira) |
 | :---: |
 
+
+
+### English
+
 <h1 align="center">Repository created for storing project 1 archives, made by the interdisciplinary project 1 students at UCB</h1>
+
+### Purpose of the Project
+
+<h4 align="justify"><p> All years the spirit center Serapiao Ribeiro located in Anapolis performs his Christmas campaign. The project aims connect low income children to people who behave like godparents or godmothers with the aim of collect clothes and toys to be donated to children. The process works where each godparent or godmother when registering in the institution's internal system have the option to donate the money to the institution who will take care of the distribution of the gifts according to demand. .</p>
+<p> Despite solidarity like every good project the Serapiao Ribeiro center Christmas campaign has some issues to resolve analyzing the proposal we found some problems that caught our attention, they are: how the godparent performs the subscription, how the control of values are made and what can be done if, at the end of subscription, there are children without godparents. </p>
+<p> Thinking about this, we developed this project in order to solve them, the same is about the web system that can be hosted in the institution site, where do users arrive when they register through an interface with a guest card.</p>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
